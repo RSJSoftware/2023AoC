@@ -1,0 +1,231 @@
+[
+    {
+        "puzzleInput":
+        {
+            "day": 1,
+            "parseType": "Line",
+            "fileName": "day01.txt",
+            "fileNameSample": "day01s.txt"
+        }
+    },
+
+    {
+        "puzzleInput":
+        {
+            "day": 2,
+            "parseType": "Line",
+            "fileName": "day02.txt",
+            "fileNameSample": "day02s.txt"
+        }
+    },
+
+    {
+        "puzzleInput":
+        {
+            "day": 3,
+            "parseType": "Grid",
+            "fileName": "day03.txt",
+            "fileNameSample": "day03s.txt"
+        }
+    },
+    
+    {
+        "puzzleInput":
+        {
+            "day": 4,
+            "parseType": "Line",
+            "fileName": "day04.txt",
+            "fileNameSample": "day04s.txt"
+        }
+    },
+
+    {
+        "puzzleInput":
+        {
+            "day": 5,
+            "parseType": "Batch",
+            "fileName": "day05.txt",
+            "fileNameSample": "day05s.txt"
+        }
+    },
+    {
+        "puzzleInput":
+        {
+            "day": 6,
+            "parseType": "Line",
+            "fileName": "day06.txt",
+            "fileNameSample": "day06s.txt"
+        }
+    },
+    {
+        "puzzleInput":
+        {
+            "day": 7,
+            "parseType": "Line",
+            "fileName": "day07.txt",
+            "fileNameSample": "day07s.txt"
+        }
+    },
+    {
+        "puzzleInput":
+        {
+            "day": 8,
+            "parseType": "Line",
+            "fileName": "day08.txt",
+            "fileNameSample": "day08s.txt"
+        }
+    },
+    {
+        "puzzleInput":
+        {
+            "day": 9,
+            "parseType": "Line",
+            "fileName": "day09.txt",
+            "fileNameSample": "day09s.txt"
+        }
+    },
+    {
+        "puzzleInput":
+        {
+            "day": 10,
+            "parseType": "Grid",
+            "fileName": "day10.txt",
+            "fileNameSample": "day10s.txt"
+        }
+    },
+    {
+        "puzzleInput":
+        {
+            "day": 11,
+            "parseType": "Grid",
+            "fileName": "day11.txt",
+            "fileNameSample": "day11s.txt"
+        }
+    },
+    {
+        "puzzleInput":
+        {
+            "day": 12,
+            "parseType": "Line",
+            "fileName": "day12.txt",
+            "fileNameSample": "day12s.txt"
+        }
+    },
+    {
+        "puzzleInput":
+        {
+            "day": 13,
+            "parseType": "GridList",
+            "fileName": "day13.txt",
+            "fileNameSample": "day13s.txt"
+        }
+    },
+    {
+        "puzzleInput":
+        {
+            "day": 14,
+            "parseType": "Grid",
+            "fileName": "day14.txt",
+            "fileNameSample": "day14s.txt"
+        }
+    },
+    {
+        "puzzleInput":
+        {
+            "day": 15,
+            "parseType": "Line",
+            "fileName": "day15.txt",
+            "fileNameSample": "day15s.txt"
+        }
+    },
+    {
+        "puzzleInput":
+        {
+            "day": 16,
+            "parseType": "Grid",
+            "fileName": "day16.txt",
+            "fileNameSample": "day16s.txt"
+        }
+    },
+    {
+        "puzzleInput":
+        {
+            "day": 17,
+            "parseType": "Grid",
+            "fileName": "day17.txt",
+            "fileNameSample": "day17s.txt"
+        }
+    },
+    {
+        "puzzleInput":
+        {
+            "day": 18,
+            "parseType": "Line",
+            "fileName": "day18.txt",
+            "fileNameSample": "day18s.txt"
+        }
+    },
+    {
+        "puzzleInput":
+        {
+            "day": 19,
+            "parseType": "Line",
+            "fileName": "day19.txt",
+            "fileNameSample": "day19s.txt"
+        }
+    },
+    {
+        "puzzleInput":
+        {
+            "day": 20,
+            "parseType": "Line",
+            "fileName": "day20.txt",
+            "fileNameSample": "day20s.txt"
+        }
+    },
+    {
+        "puzzleInput":
+        {
+            "day": 21,
+            "parseType": "Grid",
+            "fileName": "day21.txt",
+            "fileNameSample": "day21s.txt"
+        }
+    },
+    {
+        "puzzleInput":
+        {
+            "day": 22,
+            "parseType": "Line",
+            "fileName": "day22.txt",
+            "fileNameSample": "day22s.txt"
+        }
+    },
+    {
+        "puzzleInput":
+        {
+            "day": 23,
+            "parseType": "Grid",
+            "fileName": "day23.txt",
+            "fileNameSample": "day23s.txt"
+        }
+    },
+    {
+        "puzzleInput":
+        {
+            "day": 24,
+            "parseType": "Line",
+            "fileName": "day24.txt",
+            "fileNameSample": "day24s.txt"
+        }
+    },
+    {
+        "puzzleInput":
+        {
+            "day": 25,
+            "parseType": "Line",
+            "fileName": "day25.txt",
+            "fileNameSample": "day25s.txt"
+        }
+    }
+]
